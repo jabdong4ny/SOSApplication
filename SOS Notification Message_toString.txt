@@ -1,0 +1,59 @@
+"<e-ML version=\"1.0\">\n"+
+"    <Header>\n"+
+"    	<Device>\n"+
+"	</Device>\n"+
+"	<Message>\n"+
+"		<Type>Report</Type>\n"+
+"		<Service>SOS</Service>\n"+
+"		<Operation>Notification</Operation>\n"+
+"	</Message>\n"+
+"	<HULanguage>English</HULanguage>\n"+
+"	<TransmissionTimestamp>\n"+
+"		<DataTime format=\"UTC\">20150531T153000Z</DateTime>\n"+
+"	</TransmissionTimestamp>\n"+
+"	</Header>\n"+
+"	<Body>\n"+
+"		<VehicleReport>\n"+
+"			<GpsData system=\"GPS\">\n"+
+"				<Coordinate unit=\"mas\">\n"+
+"					<Lat>-136461600</Lat>\n"+
+"					<Lon>522508700</Lon>\n"+
+"				</Coordinate>\n"+
+"				<Accurate>yes</Accurate>\n"+
+"				<Velocity unit=\"kph\">100</Velocity>\n"+
+"				<Heading>90</Heading>\n"+
+"				<DataTime format=\"UTC\">20150531T152800Z</DateTime>\n"+
+"			</GpsData>\n"+
+"			<LastValidGpsData system=\"GPS\">\n"+
+"				<Coordinate unit=\"mas\">\n"+
+"					<Lat>-136461600</Lat>\n"+
+"					<Lon>522508700</Lon>\n"+
+"				</Coordinate>\n"+
+"				<Accurate>yes</Accurate>\n"+
+"				<Velocity unit=\"kph\">100</Velocity>\n"+
+"				<Heading>90</Heading>\n"+
+"				<DataTime format=\"UTC\">20150531T152800Z</DateTime>\n"+
+"			</LastValidGpsData>\n"+
+"			<EventTimestamp>\n"+
+"				<DataTime format=\"UTC\">20150531T152800Z</DateTime>\n"+
+"			</EventTimestamp>\n"+
+"			<Ignition>IG-ON</Ignition>\n"+
+"			<History system=\"GPS\" length=\"2\">\n"+
+"				<HisEntry no=\"1\">\n"+
+"					<Coordinate unit=\"mas\">\n"+
+"						<Lat></Lat>\n"+
+"						<Lon></Lon>\n"+
+"					</Coordinate>\n"+
+"					<DataTime format=\"UTC\">20150531T152800Z</DateTime>\n"+
+"				</HisEntry>\n"+
+"				<HisEntry no=\"2\">\n"+
+"					<Coordinate unit=\"mas\">\n"+
+"						<Lat></Lat>\n"+
+"						<Lon></Lon>\n"+
+"					</Coordinate>\n"+
+"					<DataTime format=\"UTC\">20150531T152800Z</DateTime>\n"+
+"				</HisEntry>\n"+
+"			</History>\n"+
+"		</VehicleReport>\n"+
+"	</Body>\n"+
+"</e-ML>\n";

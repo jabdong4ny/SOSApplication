@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_main"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="kr.co.ocube.develop.sosapplication.process.SmsProcess">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="받는사람 전화 번호"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/phonenum"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="내용을 입력하시오"
+        android:textSize="20dp"/>
+    <EditText
+        android:id="@+id/messages"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp" />
+
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:text="전송"
+        android:id="@+id/smssend"/>
+</LinearLayout>
+
+</RelativeLayout>
