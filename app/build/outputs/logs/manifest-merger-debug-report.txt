@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\70ced66ffc63ee3fe2fcaf6c44934de0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\610a6c71944836d2702f15f1623155f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\740ca13b900fb8d8d63530244ddb0764\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\70fd334d68f8e31e711e6fc0894277ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3ac375207f55896aad4de2e552d1a119\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\af05c7fac273c7d70832828241588e9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\933d69e90c9c736c35c8419f16b97476\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0e25e916d95167f6bced1c0aa2dfebe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\826274754e7cd3c002737880a0b7571f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\527954a4adba4bf84a8d72548147e6ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3e4fc3697afd2d8d2016e9990c73b3d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cdeeb16251e80c2113bab2dc26a62f90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b629456de47da8d28585c3c2894dc8f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\070b7ac450e9d39b057555c8389106d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f70d883d0125ebfa4fbb43939ed1140e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\76a580d5f54bca7c96e30b40b53cdf7e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56385524193a8a757a3b5c1087c22358\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:4:5-49
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:7:22-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:10:22-66
+application
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:12:5-77:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\740ca13b900fb8d8d63530244ddb0764\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\740ca13b900fb8d8d63530244ddb0764\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:18:9-40
+activity#kr.co.ocube.develop.sosapplication.SettingActivity
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:19:9-22:68
+	android:label
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:21:13-59
+	android:theme
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:20:13-44
+activity#kr.co.ocube.develop.sosapplication.SettingsActivity
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:23:9-25:63
+	android:label
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:25:13-60
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:24:13-45
+activity#kr.co.ocube.develop.sosapplication.BackFakeCallActivity
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:26:9-28:47
+	android:launchMode
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:27:13-49
+activity#kr.co.ocube.develop.sosapplication.MainActivity
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:29:9-52:20
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:33:27-74
+intent-filter#action:name:android.intent.action.DIAL+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tel
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:35:13-46:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:38:25-66
+action#android.intent.action.DIAL
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:41:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:43:27-75
+data
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:45:17-46
+	android:scheme
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:45:23-43
+intent-filter#action:name:android.intent.action.DIAL+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:47:13-51:29
+receiver#kr.co.ocube.develop.sosapplication.process.SMSBroadCast
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:54:19-55
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:55:13-57:29
+	android:priority
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:55:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:56:17-82
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:56:25-79
+receiver#kr.co.ocube.develop.sosapplication.InOutgoingReceiver
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:59:9-64:20
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:59:19-53
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:60:13-63:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:61:17-82
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:61:25-79
+action#android.intent.action.PHONE_STATE
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:62:17-76
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:62:25-73
+service#kr.co.ocube.develop.sosapplication.CustomInCallService
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:66:9-76:19
+	android:permission
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:68:13-72
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:67:13-48
+meta-data#android.telecom.IN_CALL_SERVICE_UI
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:69:13-71:40
+	android:value
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:71:17-37
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:70:17-66
+intent-filter#action:name:android.telecom.InCallService
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:73:13-75:29
+action#android.telecom.InCallService
+ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:74:17-72
+	android:name
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml:74:25-69
+uses-sdk
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\70ced66ffc63ee3fe2fcaf6c44934de0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\70ced66ffc63ee3fe2fcaf6c44934de0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\610a6c71944836d2702f15f1623155f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\610a6c71944836d2702f15f1623155f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\740ca13b900fb8d8d63530244ddb0764\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\740ca13b900fb8d8d63530244ddb0764\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\70fd334d68f8e31e711e6fc0894277ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\70fd334d68f8e31e711e6fc0894277ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3ac375207f55896aad4de2e552d1a119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3ac375207f55896aad4de2e552d1a119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\af05c7fac273c7d70832828241588e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\af05c7fac273c7d70832828241588e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\933d69e90c9c736c35c8419f16b97476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\933d69e90c9c736c35c8419f16b97476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0e25e916d95167f6bced1c0aa2dfebe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0e25e916d95167f6bced1c0aa2dfebe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\826274754e7cd3c002737880a0b7571f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\826274754e7cd3c002737880a0b7571f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\527954a4adba4bf84a8d72548147e6ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\527954a4adba4bf84a8d72548147e6ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3e4fc3697afd2d8d2016e9990c73b3d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3e4fc3697afd2d8d2016e9990c73b3d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cdeeb16251e80c2113bab2dc26a62f90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cdeeb16251e80c2113bab2dc26a62f90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b629456de47da8d28585c3c2894dc8f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b629456de47da8d28585c3c2894dc8f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\070b7ac450e9d39b057555c8389106d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\070b7ac450e9d39b057555c8389106d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f70d883d0125ebfa4fbb43939ed1140e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f70d883d0125ebfa4fbb43939ed1140e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\76a580d5f54bca7c96e30b40b53cdf7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\76a580d5f54bca7c96e30b40b53cdf7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56385524193a8a757a3b5c1087c22358\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56385524193a8a757a3b5c1087c22358\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\AndroidStudioProjects\SOSApplication\app\src\main\AndroidManifest.xml
